@@ -20,6 +20,7 @@ body{
 
 .container{
     max-width: 80vw;
+    max-height: 90vh;
     
     display: grid;
     grid-template-columns: repeat(5, 1fr);
